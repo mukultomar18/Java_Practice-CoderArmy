@@ -3,7 +3,7 @@ public class lec18 {
         Student s = new Student();
         s.name = "John";
         s.age = 20; 
-        System.out.println(s);
+        System.out.println();
         
     }
 }
